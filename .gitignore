@@ -1,0 +1,3 @@
+#Ignore python virtual environment
+env_llm
+env_trans
